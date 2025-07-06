@@ -1,0 +1,28 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild*/
+[Ll]ogs/
+[Oo]bj/
+[Uu]serSettings/
+MemoryCaptures/
+sysinfo.txt
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.bak
+*.swp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# macOS
+.DS_Store
